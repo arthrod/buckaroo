@@ -69,7 +69,7 @@ executing==1.2.0
     # via stack-data
 fastjsonschema==2.17.1
     # via nbformat
-filelock==3.12.2
+filelock==3.20.1
     # via solara
 fqdn==1.5.1
     # via jsonschema
@@ -305,7 +305,7 @@ pygments==2.15.1
     #   nbconvert
     #   rich
     #   solara
-pymdown-extensions==10.0.1
+pymdown-extensions==10.16.1
     # via solara
 pyrsistent==0.19.3
     # via jsonschema
@@ -395,7 +395,7 @@ tomli==2.0.1
     # via
     #   jupyterlab
     #   pytest
-tornado==6.3.2
+tornado==6.5.3
     # via
     #   ipykernel
     #   jupyter-client
