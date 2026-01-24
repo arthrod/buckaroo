@@ -25,7 +25,7 @@
     "@ag-grid-community/styles": "^32.3.3",
     "@ag-grid-community/theming": "^32.3.3",
     "hyparquet": "^1.8.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "recharts": "^2.13.1"
   },
   "devDependencies": {
