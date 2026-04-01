@@ -299,7 +299,7 @@ pydantic==1.10.9
     # via solara
 pyee==9.0.4
     # via playwright
-pygments==2.15.1
+pygments==2.20.0
     # via
     #   ipython
     #   nbconvert
