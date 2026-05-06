@@ -158,7 +158,7 @@ jupyter-core==5.3.1
     #   voila
 jupyter-events==0.6.3
     # via jupyter-server-fileid
-jupyter-server==1.24.0
+jupyter-server==2.18.0
     # via
     #   ipyaggrid (setup.py)
     #   jupyter-server-fileid
