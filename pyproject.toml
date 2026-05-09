@@ -67,7 +67,7 @@ dev = [
     "graphviz>=0.20.1",
     "pytest-check-links",
     "toml",
-    "mistune<3.1"
+    "mistune<3.3"
 ]
 
 
